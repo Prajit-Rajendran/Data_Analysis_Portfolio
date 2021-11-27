@@ -5,3 +5,4 @@ Here are the list of projects:
 * Exploratory data analysis of school dropout rates around the world [[Notebook](https://github.com/Prajit-Rajendran/Data_Analysis_Portfolio/blob/main/eda-school-dropout-rates.ipynb)]
 * Data analysis of Kaggle 2021 survey data, attempting to compare respondents from India and the USA [[Notebook](https://github.com/Prajit-Rajendran/Data_Analysis_Portfolio/blob/main/kaggle-survey-2021-insights-india-us-comparison.ipynb)]
 * Kerala elections 2021 data analysis [[Notebook](https://github.com/Prajit-Rajendran/Data_Analysis_Portfolio/blob/main/kerala-election-data-2021-eda.ipynb)]
+* Eurovision 2021 song contest data analysis to determine if neighbpring countries tend to vote for each other [[Notebook](https://github.com/Prajit-Rajendran/Data_Analysis_Portfolio/blob/main/eurovision-2021-song-contest-analysis.ipynb)]
